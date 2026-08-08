@@ -6,28 +6,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SHELL-0d1117?style=flat-square&logo=gnubash&logoColor=white" alt="Shell">
-  <img src="https://img.shields.io/badge/PYTHON-0d1117?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JAVASCRIPT-0d1117?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SWIFT-0d1117?style=flat-square&logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/ROUTEROS-0d1117?style=flat-square&logo=mikrotik&logoColor=white" alt="RouterOS">
-</p>
-
-<p align="center">
   <img src="assets/divider.svg" alt="" width="600">
 </p>
 
-<p align="center"><sub>M I S S I O N&nbsp;&nbsp;&nbsp;S Y S T E M S</sub></p>
+<p align="center"><sub>T E L E M E T R Y</sub></p>
 
-```mermaid
-%%{init: {"theme":"base","themeVariables":{"background":"transparent","primaryColor":"#0d1117","primaryTextColor":"#c9d1d9","primaryBorderColor":"#484f58","lineColor":"#6e7681","secondaryColor":"#161b22","tertiaryColor":"#161b22","fontSize":"12px"}}}%%
-flowchart LR
-    WAN[INTERNET] --> RTR[MIKROTIK ROUTER]
-    RTR --> SRV[LAN SERVER<br>SELF-HOSTED SERVICES]
-    RTR --> GW[LORA GATEWAY]
-    GW -.-> FLD[ESP32 / STM32<br>FIELD DEVICES]
-    SRV --> EXT[EXTERNAL APIS<br>DROPBOX / ANTHROPIC]
-```
+<p align="center">
+  <img src="assets/telemetry.svg" alt="Org telemetry: 378 commits in 12 weeks, 19 open pull requests, 9 open bugs, 8 open Dependabot alerts" width="100%">
+</p>
 
 <p align="center">
   <img src="assets/divider.svg" alt="" width="600">
@@ -45,6 +31,21 @@ flowchart LR
 | [codex-workflows](https://github.com/azevedo-home-lab/codex-workflows) | — | CODEX AGENT WORKFLOWS |
 | [privacy-web-search-mcp](https://github.com/azevedo-home-lab/privacy-web-search-mcp) | JAVASCRIPT | PRIVACY-FOCUSED WEB SEARCH MCP SERVER |
 | [TokenEater](https://github.com/azevedo-home-lab/TokenEater) | SWIFT | MACOS WIDGET — AI USAGE MONITORING |
+
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="600">
+</p>
+
+<p align="center"><sub>O P E R A T I O N S</sub></p>
+
+| STATION | FUNCTION |
+|:---|:---|
+| [SAVENOTES BACKLOG](https://github.com/orgs/azevedo-home-lab/projects/1) | PRODUCT BOARD — SAVE-NOTE-API |
+| [HOMELAB OPS](https://github.com/orgs/azevedo-home-lab/projects/3) | INFRASTRUCTURE BOARD |
+| [CLAUDE CODE WORKFLOWS](https://github.com/orgs/azevedo-home-lab/projects/4) | WORKFLOW MANAGER BOARD |
+| [BETTERSTACK](https://uptime.betterstack.com) | UPTIME AND INCIDENT MONITORING |
+| [BITWARDEN](https://vault.bitwarden.eu) | SECRETS VAULT — EU |
+| [TAILSCALE](https://login.tailscale.com/admin/machines) | PRIVATE MESH NETWORK |
 
 <p align="center">
   <img src="assets/divider.svg" alt="" width="600">
