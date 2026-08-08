@@ -1,0 +1,30 @@
+name: telemetry
+on:
+  schedule:
+    - cron: "23 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Regenerate telemetry panel
+        env:
+          ORG_PAT: ${{ secrets.ORG_TELEMETRY_PAT }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/gen_telemetry.py
+      - name: Commit if changed
+        run: |
+          if git diff --quiet profile/assets/telemetry.svg; then
+            echo "no change"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/assets/telemetry.svg
+          git commit -m "chore: refresh telemetry panel"
+          git push
