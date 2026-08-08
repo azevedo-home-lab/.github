@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-label="Org telemetry: 378 commits in 12 weeks, 19 open pull requests, 9 open bugs, 8 open Dependabot alerts">
+  <rect width="1280" height="340" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="1279" height="339" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <text x="90" y="30" fill="#8b949e" font-family="Futura, 'Century Gothic', 'URW Gothic', sans-serif" font-size="10" letter-spacing="3">ORG TELEMETRY — ALL REPOSITORIES</text>
+  <text x="1190" y="30" text-anchor="end" fill="#8b949e" font-family="Futura, 'Century Gothic', 'URW Gothic', sans-serif" font-size="10" letter-spacing="2">SNAPSHOT 2026-08-08</text>
+
+  <!-- stat tiles -->
+  <g font-family="Futura, 'Century Gothic', 'URW Gothic', sans-serif" text-anchor="middle">
+    <text x="190" y="98" fill="#e6edf3" font-size="46">378</text>
+    <text x="190" y="122" fill="#8b949e" font-size="10" letter-spacing="4">COMMITS · 12 WEEKS</text>
+    <text x="490" y="98" fill="#e6edf3" font-size="46">19</text>
+    <text x="490" y="122" fill="#8b949e" font-size="10" letter-spacing="4">OPEN PULL REQUESTS</text>
+    <text x="790" y="98" fill="#e6edf3" font-size="46">9</text>
+    <text x="790" y="122" fill="#8b949e" font-size="10" letter-spacing="4">OPEN BUGS</text>
+    <text x="1090" y="98" fill="#c1121f" font-size="46">8</text>
+    <text x="1090" y="122" fill="#c1121f" font-size="10" letter-spacing="4">DEPENDABOT ALERTS</text>
+  </g>
+
+  <line x1="90" y1="148" x2="1190" y2="148" stroke="#30363d" stroke-width="1"/>
+  <text x="90" y="172" fill="#8b949e" font-family="Futura, 'Century Gothic', 'URW Gothic', sans-serif" font-size="10" letter-spacing="3">COMMITS PER WEEK</text>
+
+  <!-- bars: weeks of 2026-05-17 .. 2026-08-02, values 7 16 11 0 0 4 0 0 0 42 100 198 -->
+  <g fill="#e6edf3">
+    <rect x="121" y="296" width="30" height="4"/>
+    <rect x="213" y="290" width="30" height="10"/>
+    <rect x="304" y="293" width="30" height="7"/>
+    <rect x="396" y="299" width="30" height="1" opacity="0.25"/>
+    <rect x="488" y="299" width="30" height="1" opacity="0.25"/>
+    <rect x="579" y="298" width="30" height="2"/>
+    <rect x="671" y="299" width="30" height="1" opacity="0.25"/>
+    <rect x="763" y="299" width="30" height="1" opacity="0.25"/>
+    <rect x="854" y="299" width="30" height="1" opacity="0.25"/>
+    <rect x="946" y="275" width="30" height="25"/>
+    <rect x="1038" y="239" width="30" height="61"/>
+    <rect x="1129" y="180" width="30" height="120"/>
+  </g>
+
+  <!-- selective value labels -->
+  <g font-family="Futura, 'Century Gothic', 'URW Gothic', sans-serif" font-size="11" text-anchor="middle" fill="#e6edf3">
+    <text x="1053" y="231">100</text>
+    <text x="1144" y="172">198</text>
+  </g>
+
+  <line x1="90" y1="300" x2="1190" y2="300" stroke="#30363d" stroke-width="1"/>
+
+  <!-- week labels -->
+  <g font-family="Futura, 'Century Gothic', 'URW Gothic', sans-serif" font-size="10" letter-spacing="2" text-anchor="middle" fill="#8b949e">
+    <text x="136" y="320">MAY 17</text>
+    <text x="503" y="320">JUN 14</text>
+    <text x="869" y="320">JUL 12</text>
+    <text x="1144" y="320">AUG 02</text>
+  </g>
+</svg>
