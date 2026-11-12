@@ -3,7 +3,7 @@
   <rect x="0.5" y="0.5" width="1279" height="339" fill="none" stroke="#d0d7de" stroke-width="1"/>
   <g font-family="Futura, 'Century Gothic', 'URW Gothic', sans-serif">
     <text x="90" y="30" fill="#57606a" font-size="10" letter-spacing="3">ORG TELEMETRY — ALL REPOSITORIES</text>
-    <text x="1190" y="30" text-anchor="end" fill="#57606a" font-size="10" letter-spacing="2">SNAPSHOT 2026-11-11</text>
+    <text x="1190" y="30" text-anchor="end" fill="#57606a" font-size="10" letter-spacing="2">SNAPSHOT 2026-11-12</text>
     <g text-anchor="middle">
       <text x="190" y="98" fill="#0969da" font-size="46">84</text>
       <text x="190" y="122" fill="#57606a" font-size="10" letter-spacing="4">COMMITS · 12 WEEKS</text>
