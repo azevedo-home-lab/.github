@@ -3,7 +3,7 @@
   <rect x="0.5" y="0.5" width="1279" height="339" fill="none" stroke="#d0d7de" stroke-width="1"/>
   <g font-family="Futura, 'Century Gothic', 'URW Gothic', sans-serif">
     <text x="90" y="30" fill="#57606a" font-size="10" letter-spacing="3">ORG TELEMETRY — ALL REPOSITORIES</text>
-    <text x="1190" y="30" text-anchor="end" fill="#57606a" font-size="10" letter-spacing="2">SNAPSHOT 2026-11-14</text>
+    <text x="1190" y="30" text-anchor="end" fill="#57606a" font-size="10" letter-spacing="2">SNAPSHOT 2026-11-15</text>
     <g text-anchor="middle">
       <text x="190" y="98" fill="#0969da" font-size="46">84</text>
       <text x="190" y="122" fill="#57606a" font-size="10" letter-spacing="4">COMMITS · 12 WEEKS</text>
@@ -16,7 +16,7 @@
     </g>
     <text x="90" y="172" fill="#57606a" font-size="10" letter-spacing="3">COMMITS PER WEEK</text>
     <text x="136" y="172" text-anchor="middle" font-size="11" fill="#1f2328">7</text><text x="228" y="172" text-anchor="middle" font-size="11" fill="#1f2328">7</text><text x="319" y="172" text-anchor="middle" font-size="11" fill="#1f2328">7</text><text x="411" y="172" text-anchor="middle" font-size="11" fill="#1f2328">7</text><text x="502" y="172" text-anchor="middle" font-size="11" fill="#1f2328">7</text><text x="594" y="172" text-anchor="middle" font-size="11" fill="#1f2328">7</text><text x="686" y="172" text-anchor="middle" font-size="11" fill="#1f2328">7</text><text x="778" y="172" text-anchor="middle" font-size="11" fill="#1f2328">7</text><text x="869" y="172" text-anchor="middle" font-size="11" fill="#1f2328">7</text><text x="961" y="172" text-anchor="middle" font-size="11" fill="#1f2328">7</text><text x="1052" y="172" text-anchor="middle" font-size="11" fill="#1f2328">7</text><text x="1144" y="172" text-anchor="middle" font-size="11" fill="#1f2328">7</text>
-    <text x="136" y="320" text-anchor="middle" font-size="10" letter-spacing="2" fill="#57606a">AUG 23</text><text x="502" y="320" text-anchor="middle" font-size="10" letter-spacing="2" fill="#57606a">SEP 20</text><text x="869" y="320" text-anchor="middle" font-size="10" letter-spacing="2" fill="#57606a">OCT 18</text><text x="1144" y="320" text-anchor="middle" font-size="10" letter-spacing="2" fill="#57606a">NOV 08</text>
+    <text x="136" y="320" text-anchor="middle" font-size="10" letter-spacing="2" fill="#57606a">AUG 30</text><text x="502" y="320" text-anchor="middle" font-size="10" letter-spacing="2" fill="#57606a">SEP 27</text><text x="869" y="320" text-anchor="middle" font-size="10" letter-spacing="2" fill="#57606a">OCT 25</text><text x="1144" y="320" text-anchor="middle" font-size="10" letter-spacing="2" fill="#57606a">NOV 15</text>
   </g>
   <line x1="90" y1="148" x2="1190" y2="148" stroke="#d0d7de" stroke-width="1"/>
   <rect x="121" y="180" width="30" height="120" fill="#0969da"/><rect x="212" y="180" width="30" height="120" fill="#0969da"/><rect x="304" y="180" width="30" height="120" fill="#0969da"/><rect x="396" y="180" width="30" height="120" fill="#0969da"/><rect x="488" y="180" width="30" height="120" fill="#0969da"/><rect x="579" y="180" width="30" height="120" fill="#0969da"/><rect x="671" y="180" width="30" height="120" fill="#0969da"/><rect x="762" y="180" width="30" height="120" fill="#0969da"/><rect x="854" y="180" width="30" height="120" fill="#0969da"/><rect x="946" y="180" width="30" height="120" fill="#0969da"/><rect x="1038" y="180" width="30" height="120" fill="#0969da"/><rect x="1129" y="180" width="30" height="120" fill="#0969da"/>
